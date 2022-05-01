@@ -7,12 +7,12 @@ This is a raport about practising how to use Robot Framework web testing for a s
 
 
 - [Installation](#Installation)
-- [1. test.robot](#2-test-robot)
-- [2. test2.robot](#2-test2-robot)
-- [3. test3.robot](#3-test3-robot)
-- [4. test4.robot](#4-test4-robot)
-- [5. test5.robot](#5-test5-robot)
-- [6. test6.robot](#6-test6-robot)
+- [1. test.robot](#2.-test.robot)
+- [2. test2.robot](#2.-test2.robot)
+- [3. test3.robot](#3.-test3.robot)
+- [4. test4.robot](#4.-test4.robot)
+- [5. test5.robot](#5.-test5.robot)
+- [6. test6.robot](#6.-test6.robot)
 
 
 <hr />
