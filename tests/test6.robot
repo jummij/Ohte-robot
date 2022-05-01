@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation       This test uses keywords RightClick, SwitchWindow and CloseWindow, including some others from earlier test files
+Documentation       This test uses keywords OpenWindow, SwitchWindow and CloseWindow, including some others from earlier test files
 Library             QWeb
 
 
