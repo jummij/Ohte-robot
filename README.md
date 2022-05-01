@@ -23,9 +23,9 @@ This is a raport about practising how to use Robot Framework web testing for a s
 ## Installation
 
 Python is required to be installed. Install Python to PATH on Windows machines.
-See [installation instructions](https://github.com/robotframework/robotframework/blob/master/INSTALL.rst)
 
-* [python](https://www.python.org/downloads/)
+
+* [python](https://www.python.org/downloads/) (See [installation instructions](https://github.com/robotframework/robotframework/blob/master/INSTALL.rst))
 * pip install robotframework
 * pip install robotframework-seleniumlibrary
 * pip install QWeb
