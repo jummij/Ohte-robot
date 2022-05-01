@@ -6,13 +6,14 @@ This is a raport about practising how to use Robot Framework web testing for a s
 ### Table of Contents
 
 
-- [Installation](#Installation)
-- [1. test.robot](#2.-test.robot)
-- [2. test2.robot](#2.-test2.robot)
-- [3. test3.robot](#3.-test3.robot)
-- [4. test4.robot](#4.-test4.robot)
-- [5. test5.robot](#5.-test5.robot)
-- [6. test6.robot](#6.-test6.robot)
+  - [Installation](#installation)
+  - [Getting started](#getting-started)
+  - [1. test.robot](#1-testrobot)
+  - [2. test2.robot](#2-test2robot)
+  - [3. test3.robot](#3-test3robot)
+  - [4. test4.robot](#4-test4robot)
+  - [5. test5.robot](#5-test5robot)
+  - [6. test6.robot](#6-test6robot)
 
 
 <hr />
