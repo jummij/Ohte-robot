@@ -41,7 +41,7 @@ robot testfile.robot
 
 Compare the differences:
 
-test.robot accepting cookies **did not** work:
+*test.robot*, accepting cookies **did not** work:
 ```
 Accept Cookies
         Wait Until Page Contains     Ennen kuin jatkat
@@ -49,7 +49,7 @@ Accept Cookies
         Click Button      //body/ytd-app/ytd-consent-bump-v2-lightbox/tp-yt-paper-dialog/div[4]/div[2]/div[5]/div[2]/ytd-button-renderer[2]   
 ```
 
-test2.robot, accepting cookies **works**:
+*test2.robot*, accepting cookies **works**:
 ```
 Accept Cookies
         Get Web Element     //body/div[1]/div[1]/div[2]/span[1]/a
