@@ -77,7 +77,7 @@ Accept Cookies
 
 The previous two test files implement SeleniumLibrary whereas [test3.robot](https://github.com/jummij/ohte-robot/blob/main/tests/test3.robot) implements QWeb library. QWeb made web testing even easier, as it did not need xpaths as locators, but instead uses string values as locators, e.g the text that we see on the website itself.
 
-This test file goes one step further than the previous test file, and tries to fill the contact form. With the keyword VerifyText, the program can verify whether the expected results appear or not. Here we check for missing required fields.
+This test file goes one step further than the previous test file, and tries to fill the contact form. With the keyword *VerifyText*, the program can verify whether the expected results appear or not. Here we check for missing required fields.
 
 ## 4. test4.robot
 
@@ -85,9 +85,9 @@ This test file goes one step further than the previous test file, and tries to f
 
 ## 5. test5.robot
 
-[test5.robot](https://github.com/jummij/ohte-robot/blob/main/tests/test5.robot) features the keyword ClickUntil. The test clicks a certain button so long until it gets the expected value anywhere on the website (or until time runs out). This test clicks a button that generates a random number between 1 and 100.
+[test5.robot](https://github.com/jummij/ohte-robot/blob/main/tests/test5.robot) features the keyword *ClickUntil*. The test clicks a certain button so long until it gets the expected value anywhere on the website (or until time runs out). This test clicks a button that generates a random number between 1 and 100.
 
 ## 6. test6.robot
 
-[test6.robot](https://github.com/jummij/ohte-robot/blob/main/tests/test6.robot) uses the keywords OpenWindow, SwitchWindow and CloseWindow, which creates a new tab, switches to another tab and closes the current tab, respectively.
+[test6.robot](https://github.com/jummij/ohte-robot/blob/main/tests/test6.robot) uses the keywords *OpenWindow, SwitchWindow* and *CloseWindow*, which creates a new tab, switches to another tab and closes the current tab, respectively.
 
