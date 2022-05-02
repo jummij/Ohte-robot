@@ -50,7 +50,7 @@ robot testfile.robot
 
 ## 1. test.robot
 
-[test.robot](https://github.com/jummij/ohte-robot/blob/main/tests/test.robot) was the first test file I made after skimming through guides. The test did not pass as I did not know how to accept cookies, yet.
+[test.robot](https://github.com/jummij/ohte-robot/blob/main/tests/test.robot) was the first test file I made after skimming through the guides. The test could not be finished as I did not know how to accept the cookies. The next goal was to figure out how to accept the cookies.
 
 ## 2. test2.robot
 
@@ -75,7 +75,7 @@ Accept Cookies
 
 ## 3. test3.robot
 
-The previous two test files implement SeleniumLibrary whereas [test3.robot](https://github.com/jummij/ohte-robot/blob/main/tests/test3.robot) implements QWeb library. QWeb made wed testing even easier, as it did not need xpaths as locators, but instead uses string values as locators, e.g the text that we see on the website itself.
+The previous two test files implement SeleniumLibrary whereas [test3.robot](https://github.com/jummij/ohte-robot/blob/main/tests/test3.robot) implements QWeb library. QWeb made web testing even easier, as it did not need xpaths as locators, but instead uses string values as locators, e.g the text that we see on the website itself.
 
 This test file goes one step further than the previous test file, and tries to fill the contact form. With the keyword VerifyText, the program can verify whether the expected results appear or not. Here we check for missing required fields.
 
