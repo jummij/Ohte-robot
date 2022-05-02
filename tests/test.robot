@@ -7,8 +7,6 @@ Go to Youtube
         Open Browser to Youtube
         Accept Cookies
         Search Video
-        
-
 
 *** Keywords ***
 Open Browser to Youtube
