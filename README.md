@@ -89,6 +89,7 @@ This test file goes one step further than the previous test file, and tries to f
 ## 5. test5.robot
 
 [test5.robot](https://github.com/jummij/ohte-robot/blob/main/tests/test5.robot) features the keyword *ClickUntil*. The test clicks a certain button so long until it gets the expected value anywhere on the website (or until time runs out). This test clicks a button that generates a random number between 1 and 100.
+![](https://imgur.com/a/9PNa26R)
 
 ## 6. test6.robot
 
