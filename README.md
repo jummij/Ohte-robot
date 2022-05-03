@@ -73,7 +73,7 @@ robot testfile.robot
 
 [test2.robot](https://github.com/jummij/ohte-robot/blob/main/tests/test2.robot) navigates inside a website to a contact form. It uses simple keywords such as *Click Element* and *Title Should Be*. This time I have accepted cookies successfully.
 
-Compare the differences:
+Compare the used keywords:
 
 *test.robot*, accepting cookies **did not** work:
 ```
