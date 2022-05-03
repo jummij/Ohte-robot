@@ -10,7 +10,7 @@ Accept Cookies
         VerifyText          RANDOM.ORG Uses Cookies
         ClickText           Allow Selected
 Generate random number
-        ClickUntil          15          Generate           timeout=160s         interval=1s  anchor=result:
+        ClickUntil          15          Generate           timeout=160s         interval=1s     anchor=result:
 
 
 
