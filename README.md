@@ -30,7 +30,8 @@ Python is required to be installed. Install Python to PATH on Windows machines. 
 
 * [python](https://www.python.org/downloads/) (See [installation instructions](https://github.com/robotframework/robotframework/blob/master/INSTALL.rst))
 * pip install robotframework
-* pip install robotframework-seleniumlibrary
+* pip install -U selenium OR
+* pip install robotframework-seleniumlibrary (installs both Robot Framework and Selenium)
 * pip install QWeb
 * [Browser drivers](https://www.selenium.dev/selenium/docs/api/py/index.html#drivers)
 
