@@ -32,17 +32,17 @@ Python is required to be installed. Install Python to PATH on Windows machines. 
 
 To install Robot framework and SeleniumLibrary:
  ```
-* pip install robotframework
-* pip install -U selenium
+ pip install robotframework
+ pip install -U selenium
 ```
 **OR**
 ```
-* pip install robotframework-seleniumlibrary **(installs both Robot Framework and Selenium)**
+ pip install robotframework-seleniumlibrary 
 ```
 
 To install QWeb Library:
 ```
-* pip install QWeb
+ pip install QWeb
 ```
 
 Install a browser driver to run tests:
