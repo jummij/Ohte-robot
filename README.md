@@ -86,6 +86,28 @@ This test file goes one step further than the previous test file, and tries to f
 
 [test4.robot](https://github.com/jummij/ohte-robot/blob/main/tests/test4.robot) tests register, login and account delete functions. In the beginning it tries to register with a taken username, which should prompt an error message. Registering with an available username and bot check should work fine, and so should account deletion.
 
+Let's have a look into some of the test cases in this file.
+
+The fist test case opens the browser straight to the website, and verifies from the title that we are in the correct website:
+```
+*** Keywords ***
+Navigate to website
+        OpenBrowser         https://animixplay.to/        firefox
+        VerifyTitle         AniMixPlay - Watch HD Anime for Free
+```
+
+When deleting an account, it must prompt a confirmation box before proceeding with the deletion:
+```
+Delete account
+        ClickElement        //body/div[3]/div/a[2]/i
+        ClickText           User Panel  
+        ClickText           Account
+        ClickText           Delete account
+        VerifyText          Permanently delete your account?
+        ClickText           Confirm
+ ```
+
+
 ## 5. test5.robot
 
 [test5.robot](https://github.com/jummij/ohte-robot/blob/main/tests/test5.robot) features the keyword *ClickUntil*. The test clicks a certain button so long until it gets the expected value anywhere on the website (or until time runs out). This test clicks a button that generates a random number between 1 and 100.
