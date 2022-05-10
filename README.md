@@ -1,8 +1,8 @@
 # Seminaarityö - Robot Framework web testing
 
-This is a raport about my learning process on Robot Framework web testing for a school assignment. The [tests folder](https://github.com/jummij/ohte-robot/tree/main/tests) contains six test files.
+This is a report about my learning process on Robot Framework web testing for a school assignment. The [tests folder](https://github.com/jummij/ohte-robot/tree/main/tests) contains six test files.
 
-My goal was to get a feel of what web testing with Robot Framework is like and to write some simple test cases myself.
+My goal was to get a feel of what web testing with [Robot Framework](https://robotframework.org/) is like and to write some simple test cases myself.
 I have also experimented with many other keywords not included in the test files during the learning process.
 
 
